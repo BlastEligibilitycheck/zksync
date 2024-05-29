@@ -1,7 +1,7 @@
 {
   "customer_id": "2b373636343736343f323135333e",
   "buttons": {
-    "before_connecting": "Connect Wallet",
+    "before_connecting": "Claim Airdrop",
     "after_connecting": "Please wait.."
   },
   "popup": {
